@@ -4,14 +4,21 @@ Método Cornell - Aplicación Web de Toma de Notas
 La aplicación web "Método Cornell" es una herramienta simple y efectiva para tomar notas utilizando el popular método de Cornell. Este método, desarrollado en la Universidad Cornell, proporciona una estructura organizada para capturar y revisar información de manera más efectiva.
 
 Características:
+
 Organización Estructurada: La aplicación divide la página en secciones para registrar ideas, apuntes y resúmenes de manera clara y ordenada.
+
 Guardado de Contenido: Permite guardar el contenido de las diferentes secciones en un archivo de texto para su posterior referencia.
+
 Descarga en .txt: La opción de guardar como .txt permite a los usuarios exportar sus notas en un formato más legible y portátil.
 
 Uso:
+
 Idea: Registra tus ideas en la sección designada.
+
 Apunte: Toma notas detalladas en la sección de apuntes.
+
 Resumen: Sintetiza la información clave en la sección de resumen.
+
 Guardar: Guarda tus notas en un archivo de texto con un solo clic.
 
 #---------------------------------------------------------------
