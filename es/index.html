@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Método Cornell</title>
-        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="../css/styles.css">
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
     </head>
@@ -13,31 +13,31 @@
         <header>
             <h1>Método Cornell</h1>
         </header>
-        <span class="en">English</span>
-        <input type="checkbox" class="check">
-        <span class="es">Spanish</span>
+        <span class="en">Ingles</span>
+        <input type="checkbox" class="check" checked>
+        <span class="es">Español</span>
         <main>
             <div id="apuntes-ideas">
                 <aside id="ideas">
-                    <h2>Idea</h2>
+                    <h2>Ideas</h2>
                     <textarea id="ideas-textarea" rows="10" cols="30"></textarea>
                 </aside>
 
                 <section id="apunte">
-                    <h2>Note</h2>
+                    <h2>Apunte</h2>
                     <textarea id="apunte-textarea" rows="10" cols="30"></textarea>
                 </section>
             </div>
         </main>
 
         <section id="resumen">
-            <h2>Summary</h2>
+            <h2>Resumen</h2>
             <textarea id="resumen-textarea" rows="5" cols="80"></textarea>
         </section>
 
         <div class="boton-guardar-container">
-            <button class="boton-guardar" onclick="guardarTodo()">Save</button>
+            <button class="boton-guardar" onclick="guardarTodo()">Guardar Todo</button>
         </div>
-        <script src="app/index.js"></script>
+        <script src="../app/index.js"></script>
     </body>
 </html>
